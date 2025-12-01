@@ -23,7 +23,7 @@ class AnswerButton extends StatelessWidget {
                 255,
                 255,
                 255,
-              ), // SAME color as page background
+              ), 
               fontSize: 15,
               fontWeight: FontWeight.w600,
             ),
